@@ -49,3 +49,9 @@ Learned to build a structured, multi-page layout for educational platforms
 Practiced responsive design using media queries and flex/grid layout
 Gained experience in DOM manipulation and UI state handling
 Understood how to simulate user learning progress using JS logic
+
+
+
+<img width="1661" height="767" alt="Image" src="https://github.com/user-attachments/assets/f34537f6-b0d1-4b0e-931d-9fb778cd62ce" />
+<img width="1510" height="783" alt="Image" src="https://github.com/user-attachments/assets/fdb31b91-3532-44d5-a1d9-37b7c99d44de" />
+<img width="1451" height="476" alt="Image" src="https://github.com/user-attachments/assets/e815eed8-f0a7-4c53-b4a8-0cee112a5eba" />
